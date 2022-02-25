@@ -1,11 +1,11 @@
 # 对战飞桨马里奥 (Human vs PaddleMario)
 
+![image](https://github.com/Wongziseoi/Human_vs_PaddleMario/blob/main/gif/cover.gif)
+
+
 来和马里奥比拼吧！
 
 Come and compete with paddle Mario!
-
-
-![image](https://github.com/Wongziseoi/Human_vs_PaddleMario/blob/main/gif/cover.gif)
 
 ## 目录
 
