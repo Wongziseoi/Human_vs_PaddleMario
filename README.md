@@ -25,6 +25,11 @@ cd <Your Directory>
 python mario.py
 ```
 
+**操作指南**
+使用 A\D 移动，使用 O 进行跳跃
+
+****
+
 #### 开发前的配置要求
 1. 安装 python 环境（推荐安装 python 3.7）
 2. 安装 paddle 2.0 及以上版本
