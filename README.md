@@ -1,15 +1,7 @@
-# Human vs PaddleMario
+# 对战飞桨马里奥 (Human vs PaddleMario)
 
+来和马里奥比拼吧！
 Come and compete with paddle Mario!
-
-<!-- PROJECT SHIELDS -->
-
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
 
 ## 目录
 
