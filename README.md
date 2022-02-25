@@ -18,6 +18,8 @@ Come and compete with paddle Mario!
 
 ### 上手指南
 
+**如何运行**
+
 运行 mario.py 即可
 
 ```py3
@@ -25,7 +27,7 @@ cd <Your Directory>
 python mario.py
 ```
 
-**操作指南**
+**如何操作**
 
 使用 A\D 移动，使用 O 进行跳跃
 
